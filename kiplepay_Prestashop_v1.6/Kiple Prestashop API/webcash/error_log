@@ -1,0 +1,17 @@
+[11-Feb-2010 14:47:44] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/wanita/public_html/presta/modules/webcash/validation.php on line 35
+[11-Feb-2010 14:47:44] PHP Warning:  include(https://webcash.com.my) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/wanita/public_html/presta/modules/webcash/validation.php on line 35
+[11-Feb-2010 14:50:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/wanita/public_html/presta/modules/webcash/validation.php on line 35
+[11-Feb-2010 14:50:41] PHP Warning:  include(https://webcash.com.my) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/wanita/public_html/presta/modules/webcash/validation.php on line 35
+[11-Feb-2010 15:23:13] PHP Parse error:  syntax error, unexpected '}' in /home/wanita/public_html/presta/modules/webcash/validation.php on line 42
+[11-Feb-2010 15:26:54] PHP Parse error:  syntax error, unexpected '}' in /home/wanita/public_html/presta/modules/webcash/validation.php on line 46
+[11-Feb-2010 16:19:53] PHP Parse error:  syntax error, unexpected '{' in /home/wanita/public_html/presta/modules/webcash/validation.php on line 34
+[11-Feb-2010 16:20:33] PHP Parse error:  syntax error, unexpected '{' in /home/wanita/public_html/presta/modules/webcash/validation.php on line 33
+[11-Feb-2010 18:03:22] PHP Fatal error:  Call to a member function getOrderTotal() on a non-object in /home/wanita/public_html/presta/modules/webcash/validation.php on line 14
+[11-Feb-2010 18:06:18] PHP Fatal error:  Call to a member function getOrderTotal() on a non-object in /home/wanita/public_html/presta/modules/webcash/validation.php on line 14
+[04-Mar-2010 20:55:27] PHP Parse error:  syntax error, unexpected T_STRING, expecting '{' in /home/wanita/public_html/presta/modules/webcash/validation.php on line 67
+[04-Mar-2010 20:55:49] PHP Parse error:  syntax error, unexpected '}', expecting '{' in /home/wanita/public_html/presta/modules/webcash/validation.php on line 68
+[04-Mar-2010 20:56:56] PHP Parse error:  syntax error, unexpected '}', expecting '{' in /home/wanita/public_html/presta/modules/webcash/validation.php on line 68
+[04-Mar-2010 20:57:59] PHP Parse error:  syntax error, unexpected ';', expecting '{' in /home/wanita/public_html/presta/modules/webcash/validation.php on line 64
+[05-Mar-2010 13:11:13] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/wanita/public_html/presta/modules/webcash/validation.php on line 65
+[05-Mar-2010 13:11:41] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/wanita/public_html/presta/modules/webcash/validation.php on line 65
+[05-Mar-2010 13:12:42] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/wanita/public_html/presta/modules/webcash/validation.php on line 65
